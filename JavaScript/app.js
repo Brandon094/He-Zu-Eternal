@@ -93,10 +93,6 @@ async function cargarProductos() {
     }
 }
 
-// ========================================
-// FUNCIONES DE VISUALIZACIÓN
-// ========================================
-
 // FUNCIONES DE VISUALIZACIÓN
 // ========================================
 
