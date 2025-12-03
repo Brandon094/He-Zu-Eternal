@@ -2,160 +2,253 @@
     {
         "id": 1,
         "nombre": "Ramo de Girasoles Eternos",
-        "descripcion": "Lleva el sol a cualquier espacio con este vibrante ramo de 3 girasoles eternos. Elaborados artesanalmente en tela de alta calidad, este ramo es el regalo perfecto para transmitir alegría, admiración y amor duradero. Incluye un lazo decorativo y se puede personalizar con mariposa, luces LED o coronita.",
+        "descripcion": "Un toque de sol que nunca se apaga. Este ramo de 3 girasoles eternos, elaborados artesanalmente en tela premium, transmite alegría, energía y un cariño que perdura. Incluye lazo decorativo y personalización opcional con mariposa, luces LED o coronita.",
         "precio": 50000,
         "categoria": "ramos",
         "imagen": "./img/ramo-girasoles.webp",
-        "accesorios": [
-            "mariposa",
-            "luces",
-            "coronita"
-        ]
+        "accesorios": ["mariposa", "luces", "coronita"]
     },
     {
         "id": 2,
         "nombre": "Girasol Eterno - Clásico",
-        "descripcion": "Un solo girasol eterno puede iluminar cualquier rincón. Con un elegante lazo decorativo, esta pieza es ideal como un detalle sencillo pero significativo, o para crear tus propios arreglos. Personalízalo con un mensaje y accesorios para hacerlo único.",
+        "descripcion": "Un detalle sencillo con el poder de iluminar cualquier espacio. Este girasol eterno con lazo elegante es ideal para obsequios significativos o como base para crear tus propios arreglos. Admite mensaje y accesorios para personalizarlo.",
         "precio": 25000,
         "categoria": "flores-individuales",
         "imagen": "./img/girasol-mensaje-moño.webp",
-        "accesorios": [
-            "mariposa",
-            "luces",
-            "coronita"
-        ]
+        "accesorios": ["mariposa", "luces", "coronita"]
     },
     {
         "id": 3,
         "nombre": "Girasol Eterno - Minimalista",
-        "descripcion": "Diseño simple y encantador. Este girasol eterno con un lazo pequeño es perfecto para un estilo discreto pero cálido. Una opción económica para decorar tu escritorio o enviar un mensaje de cariño con la posibilidad de personalizarlo.",
+        "descripcion": "Un diseño simple, cálido y encantador. Este girasol eterno con lazo pequeño es ideal para escritorios, detalles espontáneos o mensajes de cariño. También puedes personalizarlo.",
         "precio": 15000,
         "categoria": "flores-individuales",
         "imagen": "./img/girasol-mensaje-moño-pequeño.webp",
-        "accesorios": [
-            "mariposa",
-            "luces",
-            "coronita"
-        ]
+        "accesorios": ["mariposa", "luces", "coronita"]
     },
     {
         "id": 4,
         "nombre": "Girasol Eterno - Elegante",
-        "descripcion": "Destaca con este girasol eterno de diseño premium. Presenta un lazo más elaborado y un aspecto general de mayor lujo, ideal para ocasiones especiales donde quieres que tu regalo sea inolvidable. Incluye opciones de personalización.",
+        "descripcion": "La versión premium que roba miradas. Con lazo más elaborado y un acabado sofisticado, este girasol eterno es ideal para ocasiones especiales o para sorprender con estilo. Personalizable.",
         "precio": 30000,
         "categoria": "flores-individuales",
         "imagen": "./img/girasol-mensaje-moño-pequeño-15.webp",
-        "accesorios": [
-            "mariposa",
-            "luces",
-            "coronita"
-        ]
+        "accesorios": ["mariposa", "luces", "coronita"]
     },
     {
         "id": 5,
         "nombre": "Girasol Eterno - Primaveral",
-        "descripcion": "Este girasol eterno luce un lazo decorativo que evoca la frescura de la primavera. Una pieza llena de color y vitalidad para alegrar el hogar o la oficina. Como siempre, puedes añadirle accesorios para realzar su belleza.",
+        "descripcion": "Un toque fresco y colorido. Su lazo decorativo inspirado en la primavera ilumina cualquier ambiente. Perfecto para alegrar el hogar o la oficina. Se puede personalizar con accesorios.",
         "precio": 30000,
         "categoria": "flores-individuales",
         "imagen": "./img/girasol-mensaje-moño-pequeño-15.1.webp",
-        "accesorios": [
-            "mariposa",
-            "luces",
-            "coronita"
-        ]
+        "accesorios": ["mariposa", "luces", "coronita"]
     },
     {
-        "id": 9,
+        "id": 6,
         "nombre": "Girasol Eterno con Mariposa",
-        "descripcion": "La combinación perfecta entre la fuerza del girasol y la delicadeza de una mariposa. Este diseño exclusivo incluye ya una mariposa, simbolizando transformación y libertad. Un regalo cargado de poesía y belleza eterna.",
+        "descripcion": "La fuerza del girasol combinada con la delicadeza de una mariposa incluida. Un diseño simbólico que representa libertad y transformación. Ideal para un regalo con mensaje profundo.",
         "precio": 35000,
         "categoria": "flores-individuales",
         "imagen": "./img/girasol-mensaje-moño-mariposa.webp",
         "accesorios": []
     },
     {
-        "id": 10,
+        "id": 7,
         "nombre": "Ramo Grande de Girasoles Eternos",
-        "descripcion": "¡Impacta con este espectacular ramo de 6 girasoles eternos! Su volumen y presencia lo convierten en el regalo ideal para aniversarios, graduaciones o para decorar un espacio con una declaración de alegría y calidez. Incluye lazo decorativo, dos mariposas y luces LED.",
+        "descripcion": "Un espectáculo de luz y alegría. Con 6 girasoles eternos, mariposas y luces LED, este ramo de gran presencia es perfecto para celebraciones importantes o para decorar un espacio especial.",
         "precio": 110000,
         "categoria": "ramos",
         "imagen": "./img/ram-girasoles-luces.webp",
         "accesorios": []
     },
     {
-        "id": 11,
+        "id": 8,
         "nombre": "Ramo de 7 Rosas Eternas",
-        "descripcion": "La elegancia atemporal de las rosas en un ramo exquisito. Símbolo de amor y pureza, estas 7 rosas eternas en tela son un clásico que nunca falla. Acompañadas de un lazo y una mariposa, son perfectas para san Valentín o un cumpleaños romántico.",
+        "descripcion": "Un clásico lleno de elegancia. Este ramo de 7 rosas eternas es perfecto para ocasiones románticas o fechas especiales. Incluye lazo decorativo y una mariposa para un toque encantador.",
         "precio": 50000,
         "categoria": "ramos",
         "imagen": "./img/ramo-7-rosas-mensaje.webp",
         "accesorios": []
     },
     {
-        "id": 12,
+        "id": 9,
         "nombre": "Composición Girasol y Tulipanes",
-        "descripcion": "Una combinación única y encantadora. Un girasol central es acompañado por la gracia de tres tulipanes, creando un arreglo lleno de textura y armonía. Incluye lazo decorativo, una mariposa y dos abejitas, dando vida a un pequeño jardín eterno.",
+        "descripcion": "Un jardín eterno en tus manos. Un girasol central acompañado de tres tulipanes, mariposa, abejitas y lazo decorativo. Una mezcla encantadora de formas y colores.",
         "precio": 80000,
         "categoria": "ramos",
         "imagen": "./img/girasol-limpiapipas-tulipanes.webp",
         "accesorios": []
     },
     {
-        "id": 13,
+        "id": 10,
         "nombre": "Ramo de 3 Girasoles Mini",
-        "descripcion": "La dosis perfecta de alegría. Este ramo compacto de 3 girasoles mini es adorable, económico y perfecto para un detalle espontáneo, decorar un espacio pequeño o como centro de mesa. Incluye un delicado lazo decorativo.",
+        "descripcion": "Pequeño pero poderoso. Este adorable ramo de 3 girasoles mini es perfecto como detalle espontáneo o para decorar espacios pequeños. Incluye lazo y admite accesorios.",
         "precio": 45000,
         "categoria": "ramos",
         "imagen": "./img/3-girasoles-mini.webp",
-        "accesorios": [
-            "mariposa",
-            "luces",
-            "coronita"
-        ]
+        "accesorios": ["mariposa", "luces", "coronita"]
     },
     {
-        "id": 14,
+        "id": 11,
         "nombre": "Ramo de 8 Girasoles Eternos",
-        "descripcion": "Un ramo generoso y lleno de vitalidad. Estos 8 girasoles eternos crean una composición redonda y abundante, ideal para celebrar logros o simplemente para decir 'te quiero' a lo grande. Incluye lazo, mariposa y un mensaje personalizado.",
+        "descripcion": "Un ramo redondo, abundante y vibrante. Ocho girasoles eternos llenos de vida, acompañados de lazo, mariposa y mensaje personalizado. Perfecto para celebrar logros.",
         "precio": 60000,
         "categoria": "ramos",
         "imagen": "./img/ramo-8-girasoles.webp",
         "accesorios": []
     },
     {
-        "id": 15,
+        "id": 12,
         "nombre": "Ramo Premium de Rosas y Girasol",
-        "descripcion": "Nuestra composición más lujosa. Combina la sofisticación de las rosas blancas y amarillas con la energía de un girasol central. Un arreglo majestuoso para bodas, aniversarios o para quien merece lo mejor. Un verdadero espectáculo de belleza eterna.",
+        "descripcion": "Un arreglo de lujo que combina rosas blancas y amarillas con un girasol central. Ideal para bodas, aniversarios y ocasiones inolvidables. Majestuoso y elegante.",
         "precio": 120000,
         "categoria": "ramos-lujo",
         "imagen": "./img/ramo-rosas-grande.webp",
         "accesorios": []
     },
     {
-        "id": 16,
+        "id": 13,
         "nombre": "Ramo Mixto: 8 Rosas y 1 Girasol",
-        "descripcion": "Lo mejor de dos mundos. La delicadeza de 8 rosas eternas encuentra un contraste perfecto con la fuerza de un girasol. Simboliza una relación equilibrada, llena de amor (rosas) y alegría (girasol). Un ramo con una historia que contar.",
+        "descripcion": "La mezcla perfecta entre delicadeza y energía. Ocho rosas eternas rodean un girasol central, creando una composición equilibrada, alegre y llena de significado.",
         "precio": 80000,
         "categoria": "ramos",
         "imagen": "./img/ramo-8-rosas-1-girasol.webp",
         "accesorios": []
     },
     {
-        "id": 17,
+        "id": 14,
         "nombre": "Ramo para Él: 3 Rosas y Hot Wheels",
-        "descripcion": "¡Rompe los esquemas! El regalo perfecto para un niño, un coleccionista o el hombre joven que ama los carros. Combina la elegancia de 3 rosas eternas con la diversión de un carro Hot Wheels, creando un detalle único, moderno e inolvidable.",
+        "descripcion": "Original y divertido. Tres rosas eternas acompañadas de un carro Hot Wheels para un regalo fuera de lo común. Ideal para niños, coleccionistas y amantes de los autos.",
         "precio": 40000,
         "categoria": "ramos-tematicos",
         "imagen": "./img/rosas-3-hotwheels.webp",
         "accesorios": []
     },
     {
-        "id": 18,
+        "id": 15,
         "nombre": "Ramo para Él: 1 Rosa y Hot Wheels",
-        "descripcion": "El detalle perfecto para el hombre especial en tu vida. Combina la elegancia atemporal de una rosa eterna con la adrenalina de un carro Hot Wheels. Ideal para amantes de los autos, coleccionistas o para ese hombre joven que aprecia los regalos creativos y fuera de lo común. Un presente que demuestra que conoces sus pasiones y quieres sorprenderlo de manera única y moderna.",
+        "descripcion": "Un detalle moderno y con carácter. Combina la elegancia de una rosa eterna con la emoción de un Hot Wheels. Perfecto para sorprender a cualquier amante de los autos.",
         "precio": 20000,
         "categoria": "ramos-tematicos",
         "imagen": "./img/rosa-hotwheels.webp",
         "accesorios": []
+    },
+    {
+        "id": 16,
+        "nombre": "Ramo de 11 rosas",
+        "descripcion": "Un ramo armonioso de 11 rosas eternas en tonos púrpura y blanco. Ideal para ambientes cálidos y románticos. Incluye lazo y personalización opcional.",
+        "precio": 80000,
+        "categoria": "ramos",
+        "imagen": "./img/ramo-11-rosas.webp",
+        "accesorios": ["cinta mensaje personalizado"]
+    },
+    {
+        "id": 17,
+        "nombre": "Ramo de 4 rosas eternas",
+        "descripcion": "Un arreglo delicado y elegante con 4 rosas eternas rosadas. Perfecto para expresar cariño con sutileza. Incluye cinta decorativa y personalización.",
+        "precio": 30000,
+        "categoria": "ramos",
+        "imagen": "./img/ramo-4-rosas.webp",
+        "accesorios": ["cinta mensaje personalizado"]
+    },
+    {
+        "id": 18,
+        "nombre": "Ramo de 7 rosas eternas",
+        "descripcion": "Un ramo vibrante de 7 rosas eternas en tonos púrpura y blanco. Ideal para dar calidez a cualquier espacio. Incluye lazo y personalización. *No incluye corona.*",
+        "precio": 35000,
+        "categoria": "ramos",
+        "imagen": "./img/ramo-7-rosas-sin-corona.webp",
+        "accesorios": ["cinta mensaje personalizado"]
+    },
+    {
+        "id": 19,
+        "nombre": "Ramo de 9 rosas eternos",
+        "descripcion": "Un ramo lleno de color con 9 rosas eternas azules. Perfecto para quienes buscan algo vibrante, moderno y duradero. Incluye lazo y personalización.",
+        "precio": 70000,
+        "categoria": "ramos",
+        "imagen": "./img/ramo-9-rosas.webp",
+        "accesorios": ["cinta mensaje personalizado"]
+    },
+    {
+        "id": 20,
+        "nombre": "Ramo de 4 rosas eternos",
+        "descripcion": "Un detalle lleno de vitalidad. Este ramo de 4 rosas eternas azules transmite alegría y dinamismo. Incluye lazo y personalización.",
+        "precio": 30000,
+        "categoria": "ramos",
+        "imagen": "./img/ramo-4-rosas-azul.webp",
+        "accesorios": ["cinta mensaje personalizado"]
+    },
+    {
+        "id": 21,
+        "nombre": "Miniramo de 2 rosas eternas",
+        "descripcion": "Compacto, dulce y significativo. Este miniramo de 2 rosas eternas rosadas es perfecto para detalles espontáneos o regalos tiernos. Incluye lazo y personalización.",
+        "precio": 20000,
+        "categoria": "ramos",
+        "imagen": "./img/miniramo-rosas.webp",
+        "accesorios": ["cinta mensaje personalizado"]
+    },
+    {
+        "id": 22,
+        "nombre": "Ramo de 9 rosas eternas",
+        "descripcion": "Un arreglo elegante con 9 rosas eternas azules. Ideal para expresar admiración o celebrar una ocasión especial. Incluye lazo y personalización. *No incluye corona.*",
+        "precio": 70000,
+        "categoria": "ramos",
+        "imagen": "./img/ramo-9-rosas-azul-sin-corona.webp",
+        "accesorios": ["cinta mensaje personalizado"]
+    },
+    {
+        "id": 23,
+        "nombre": "Ramo de 9 rosas eternas",
+        "descripcion": "Un ramo delicado y encantador de 9 rosas eternas blancas y rosadas. Ideal para expresar cariño y gratitud en cualquier ocasión. Incluye lazo y personalización.",
+        "precio": 70000,
+        "categoria": "ramos",
+        "imagen": "./img/ramo-9-rosas-blancas-rosadas.webp",
+        "accesorios": ["cinta mensaje personalizado"]
+    },
+    {
+        "id": 24,
+        "nombre": "Ramo de 7 rosas eternas",
+        "descripcion": "Un arreglo luminoso de 7 rosas eternas celestes. Perfecto para expresar buenos deseos y alegría. Incluye lazo y personalización.",
+        "precio": 50000,
+        "categoria": "ramos",
+        "imagen": "./img/ramo-7-rosas-celeste.webp",
+        "accesorios": ["cinta mensaje personalizado"]
+    },
+    {
+        "id": 25,
+        "nombre": "Ramo de 4 rosas eternas",
+        "descripcion": "Un ramo alegre de 4 rosas eternas en tonos azul y blanco. Ideal para regalos llenos de energía positiva. Incluye lazo y personalización. *No incluye corona.*",
+        "precio": 50000,
+        "categoria": "ramos",
+        "imagen": "./img/ramo-4-rosas-azul-blanco.webp",
+        "accesorios": ["cinta mensaje personalizado"]
+    },
+    {
+        "id": 26,
+        "nombre": "Ramo de 10 rosas eternas",
+        "descripcion": "Un clásico romántico compuesto por 10 rosas eternas rojas. Perfecto para demostrar cariño profundo con elegancia. Incluye lazo y personalización.",
+        "precio": 70000,
+        "categoria": "ramos",
+        "imagen": "./img/ramo-10-rosas-rojas.webp",
+        "accesorios": ["cinta mensaje personalizado"]
+    },
+    {
+        "id": 27,
+        "nombre": "Ramo de 20 rosas eternas",
+        "descripcion": "Un arreglo delicado y encantador con 20 rosas eternas en tonos lila y blanco. Ideal para ocasiones especiales y regalos memorables. Incluye lazo y personalización.",
+        "precio": 110000,
+        "categoria": "ramos",
+        "imagen": "./img/ramo-20-rosas-lila.webp",
+        "accesorios": ["cinta mensaje personalizado"]
+    },
+    {
+        "id": 28,
+        "nombre": "Ramo de 8 rosas eternas",
+        "descripcion": "Un ramo vibrante de 8 rosas eternas en tonos rosa y blancos. Perfecto para transmitir alegría y celebrar momentos importantes. Incluye lazo y personalización.",
+        "precio": 90000,
+        "categoria": "ramos",
+        "imagen": "./img/ramo-8-rosas-blancas-rosadas.webp",
+        "accesorios": ["cinta mensaje personalizado"]
     }
 ]
